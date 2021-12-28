@@ -4,7 +4,7 @@
 
 > #### DATA SECURITY
 
-  **Data Security Audit Project:** An analysis  for physical, logical, and application security of data with testing plans
+  **Data Security Audit Project:** An analysis  for physical, logical, and application security of data with testing plans.
 <br><br>
 
 > #### ETHICS AND LAW IN DATA ANALYTICS
