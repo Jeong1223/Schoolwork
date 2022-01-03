@@ -1,5 +1,5 @@
 # Schoolwork
-: Main repository for all my schoolwork (IT Database Administration @NSCC)
+: Main repository for all my schoolwork (IT Database Administration @NSCC).
 <br><br>
 
 > #### DATA SECURITY
